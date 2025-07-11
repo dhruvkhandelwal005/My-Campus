@@ -1,0 +1,1101 @@
+CSE:-
+Year Semester Course
+Code
+Course Name Type L T P Credits
+FIRST YEAR
+1
+ST 1
+ST MAL
+103
+Calculus for Engineers BS 3 1 0 4
+1
+ST 1
+ST BEL 102 Elements of Electrical
+Engineering
+ES 3 0 2 4
+1
+ST 1
+ST BSL 101 Applied Sciences BS 3 0 2 4
+1
+ST 1
+ST CSL 101 Computer Programming DC 3 0 2 4
+1
+ST 1
+ST ECL 101 Electronics Devices and
+Circuits
+DC 3 0 2 4
+1
+ST 1
+ST SAP 101 Health, Sports & Safety HU 0 0 2 0
+1
+ST 1
+ST HUL 102 Environmental Studies HU 2 0 0 2
+Subtotal 17 1 10 22
+1
+ST 2
+nd MAL
+104
+Matrices, Transform
+Techniques, and Differential
+Equations
+BS 3 1 0 4
+1
+ST 2
+nd ECL 102 Digital Electronics DC 3 0 2 4
+1
+ST 2
+nd CSL 102 Data Structures DC 3 0 2 4
+1
+ST 2
+nd CSL 103 Application Programming DC 3 0 2 4
+1
+ST 2
+nd HUL 101 Communication Skills HU 2 0 2 3
+1
+ST 2
+nd BEL 101 Mechanics & Graphics ES 3 0 2 4
+Subtotal 17 1 10 23
+Total 45
+SECOND YEAR
+2
+nd 3
+rd MAL
+201
+Numerical Methods and
+Probability Theory
+BS 3 1 0 4
+2
+nd 3
+rd CSL 202 Introduction to Object Oriented
+Programming
+DC 3 0 2 4
+2
+nd 3
+rd CSL 203 Computer System Organisation DC 3 0 0 3
+2
+nd 4
+th CSL 210 Data Structures with
+Applications DC
+2 0 2 3
+2
+nd 3
+rd CSP 201 IT Workshop-I DC 0 0 4 2
+2
+nd 3
+rd ECL 202 Microprocessors & Interfacing DC 3 0 2 4
+Subtotal 14 1 10 20
+2
+nd 4
+th CSL 205 Design and Analysis of
+Algorithms
+DC 3 0 2 4
+2
+nd 4
+th CSL 206 Software Engineering DC 3 0 0 3
+2
+nd 4
+th CSL 207 Operating Systems DC 3 0 2 4
+Page 2 of 3
+2
+nd 4
+th CSL 208 Design Principles of
+Programming Languages
+DC 3 0 2 4
+2
+nd 4
+th CSL 204 Discrete Maths and Graph
+Theory
+DC 3 1 0 4
+2
+nd 4
+th CSP 202 IT Workshop-II DC 0 0 4 2
+Subtotal 15 1 10 21
+Total 41
+THIRD YEAR
+3
+rd 5
+th CSL 301 Database Management Systems DC 3 0 2 4
+3
+rd 5
+th Open Course - I OC 3 0 0 3
+3
+rd 5
+th CSL 302 Computer Networks DC 3 0 2 4
+3
+rd 5
+th CSL 303 Theory of Computation DC 3 1 0 4
+3
+rd 5
+th Elective-I DE 3 0 0 3
+Subtotal 15 1 4 18
+3
+rd 6
+th CSL 304 Compilers DC 3 0 2 4
+3
+rd 6
+th CSL 305 Cryptography and Network
+Security
+DC 3 0 2 4
+3
+rd 6
+th Open course-II OC 3 0 0 3
+3
+rd 6
+th Elective-II DE 3 0 0 3
+3
+rd 6
+th Elective –III DE 3 0 2 4
+Subtotal 15 0 6 18
+Total 36
+FINAL YEAR
+4
+th 7
+th CSD401 Project DE 0 0 16 8
+4
+th 7
+th Elective-IV DE 3 0 0/2 3/4
+4
+th 7
+th Elective-V DE 3 0 0/2 3/4
+4
+th 7
+th Elective-VI DE 3 0 0 3
+4
+th 7
+th Elective-VII DE 3 0 0 3
+4
+th 7
+th Open Course III / MooC
+Course*
+OC 3 0 0 3
+OR
+4
+th 7
+th CSD402 Internship DE 0 0 16 8
+Subtotal 15 0 16-
+20
+23-25/8
+4
+th 8
+th CSD402 Internship DE 0 0 16 8
+OR
+4
+th 8
+th CSD401/
+CSD403
+Project / Internship - II DE 0 0 16 8
+4
+th 8
+th Elective-IV DE 3 0 0/2 3/4
+4
+th 8
+th Elective-V DE 3 0 0/2 3/4
+4
+th 8
+th Elective-VI DE 3 0 0 3
+4
+th 8
+th Elective-VII DE 3 0 0 3
+Page 3 of 3
+4
+th 8
+th Open Course III / MooC
+Course*
+OC 3 0 0 3
+Subtotal 15 0 16-
+20
+8 / 23-
+25
+Total 31-33
+GRAND TOTAL 153-155
+
+CSA:-
+Year Semester Course
+Code
+Course Name Type L T P Credits
+FIRST YEAR
+1
+ST 1
+ST MAL105 Calculus for Data Science BS 3 1 0 4
+1
+ST 1
+ST CSL110 Conversational AI DC 2 0 2 3
+1
+ST 1
+ST CSL101 Computer Programming DC 3 0 2 4
+1
+ST 1
+ST CSL111 AI, Ethics and Society DC 2 0 0 2
+1
+ST 1
+ST ECL103 Applied Electronics ES 3 0 2 4
+1
+ST 1
+ST HUL102 Environmental Studies HU 2 0 0 0
+1
+ST 1
+ST SAP101 Health, Sports and Safety HU 0 0 2 0
+Subtotal 15 1 8 17
+1
+ST 2
+nd MAL106 Probability and Statistics BS 3 1 0 4
+1
+ST 2
+nd MAL107 Introduction to Linear Algebra BS 3 1 0 4
+1
+ST 2
+nd CSL102 Data Structures DC 3 0 2 4
+1
+ST 2
+nd CSL103 Application Programming DC 3 0 2 4
+1
+ST 2
+nd HUL 101 Communication Skills HU 2 0 2 3
+1
+ST 2
+nd CSP201 IT Workshop – I DC 0 0 4 2
+Subtotal 14 2 10 21
+Total 38
+SECOND YEAR
+2
+nd 3
+rd CSL202 Introduction to Object
+Oriented Programming
+DC 3 0 2 4
+2
+nd 3
+rd CSL210 Data Structure with
+Applications
+DC 2 0 2 3
+2
+nd 3
+rd CSL204 Discrete Maths and Graph
+Theory DC
+3 1 0 4
+2
+nd 3
+rd CSL216 Foundations of Computing DC 3 0 0 3
+2
+nd 3
+rd CSL203 Computer System
+Organization
+DC 3 0 0 3
+2
+nd 3
+rd HUL103 Introduction to
+Entrepreneurship
+HU 3 0 0 3
+2
+nd 3
+rd CSP203 AI/ML Workshop - I DC 0 0 4 2
+Subtotal 17 1 8 22
+2
+nd 4
+th CSL422 Machine Learning DC 3 0 2 4
+2
+nd 4
+th CSL205 Design and Analysis of
+Algorithms
+DC 3 0 2 4
+2
+nd 4
+th CSL206 Software Engineering DC 3 0 0 3
+2
+nd 4
+th CSL207 Operating Systems DC 3 0 2 4
+Page 2 of 3
+2
+nd 4
+th
+CSL301
+Database Management
+Systems
+DC 3 0 2 4
+2
+nd 4
+th CSL214 Data Handling and
+Visualization
+DC 1 0 2 2
+2
+nd 4
+th CSP204 AI/ML Workshop – II DC 0 0 4 2
+Subtotal 16 0 14 23
+Total 45
+THIRD YEAR
+3
+rd 5
+th CSL421 Artificial Intelligence DC 3 0 2 4
+3
+rd 5
+th CSL433 Natural Language Processing DC 3 0 2 4
+3
+rd 5
+th CSL308 Computer Vision Techniques DC 3 0 2 4
+3
+rd 5
+th CSL302 Computer Networks DC 3 0 2 4
+3
+rd 5
+th Open Course –I OC 3 0 0 3
+3
+rd 5
+th CSD301 Mini Project – I DE 0 0 6 3
+Subtotal 15 0 14 22
+3
+rd 6
+th CSL454 Reinforcement Learning DC 3 0 2 4
+CSL446
+Neural Networks and Deep
+Learning
+DC 3 0 0 3
+3
+rd 6
+th CSL317 Parallel and Distributed
+Computing
+DC 3 0 0 3
+3
+rd 6
+th Open Course – II OC 3 0 0 3
+3
+rd 6
+th CSL318 Optimization Techniques in
+ML
+DC 3 0 0 3
+3
+rd 6
+th CSD302 Mini Project – II DE 0 0 6 3
+Subtotal 15 0 8 19
+Total 41
+FINAL YEAR
+4th 7th CSD 401 Project DE 0 0 16 8
+4th 7th Elective – I DE 3 0 0 3
+4th 7th Elective – II DE 3 0 0/2 3/4
+4th 7th Elective – III DE 3 0 0/2 3/4
+4th 7th MooC Course / Open Course
+– III
+OC 3 0 0 3
+Subtotal 12 0 18 21-23
+OR
+4th 7th CSD 402 Internship DE 0 0 16 8
+Subtotal 0 0 16 8
+Total 21-23/8
+4th 8th CSD 402 Internship DE 0 0 16 8
+OR
+4th 8th Elective – I DE 3 0 0 3
+4th 8th Elective – II DE 3 0 0/2 3/4
+4th 8th Elective – III DE 3 0 0/2 3/4
+Page 3 of 3
+4th 8th MooC Course / Open Course
+– III
+OC 3 0 0 3
+4th 8th CSD 401/
+CSD 403
+Project / Internship - II DE 0 0 16 8
+Subtotal 12 0 18 21-23
+8/21-23
+Total 29
+GRAND TOTAL 153-155
+
+CSD:-
+Year Semester Course
+Code
+Course Name Type L T P Credits
+FIRST YEAR
+1
+ST 1
+ST MAL105 Calculus for Data Science BS 3 1 0 4
+1
+ST 1
+ST CSL109 Introduction to Data and
+Analytics
+DC 3 0 2 4
+1
+ST 1
+ST HUL304 Professional Ethics HU 3 0 0 3
+1
+ST 1
+ST CSL 101 Computer Programming DC 3 0 2 4
+1
+ST 1
+ST HUL 101 Communication Skills HU 2 0 2 3
+1
+ST 1
+ST SAP 101 Health, Sports & Safety HU 0 0 2 0
+1
+ST 1
+ST HUL 102 Environmental Studies HU 2 0 0 0
+Subtotal 16 1 8 18
+1
+ST 2
+nd MAL107 Introduction to Linear Algebra BS 3 1 0 4
+1
+ST 2
+nd MAL106 Probability and Statistics BS 3 1 0 4
+1
+ST 2
+nd CSL102 Data Structures DC 3 0 2 4
+1
+ST 2
+nd CSP101 Web Programming DC 0 0 4 2
+1
+ST 2
+nd ECL103 Applied Electronics ES 3 0 2 4
+1
+ST 2
+nd HUL103 Introduction to
+Entrepreneurship
+HU 3 0 0 3
+Subtotal 15 2 8 21
+Total 39
+SECOND YEAR
+2
+nd 3
+rd MAL202 Advanced Probability and
+Statistics
+BS 3 1 0 4
+2
+nd 3
+rd CSL 202 Introduction to Object Oriented
+Programming
+DC 3 0 2 4
+2
+nd 3
+rd CSL204 Discrete Maths and Graph
+Theory
+DC 3 1 0 4
+2
+nd 3
+rd CSL210 Data Structures with
+Applications DC
+2 0 2 3
+2
+nd 3
+rd CSP205 Tools and Practices for Data
+Science – I
+DC 0 0 4 2
+2
+nd 3
+rd CSL214 Data Handling and
+Visualization
+DC 1 0 2 2
+Subtotal 12 2 10 19
+CSL205
+Design and Analysis of
+Algorithms
+DC 3 0 2 4
+2
+nd 4
+th CSL207 Operating Systems DC 3 0 2 4
+2
+nd 4
+th CSL215 Sensor Data Analytics DC 3 0 2 4
+Page 2 of 3
+2
+nd 4
+th CSL216 Foundations of Computing DC 3 0 0 3
+2
+nd 4
+th CSL217 Web Analytics DC 3 0 0 3
+2
+nd 4
+th CSP206 Tools and Practices for Data
+Science – II
+DC 0 0 4 2
+Subtotal 15 0 10 20
+Total 39
+THIRD YEAR
+3
+rd 5
+th CSL422 Machine Learning DC 3 0 2 4
+3
+rd 5
+th CSL311 Data Privacy and Security DC 3 0 2 4
+3
+rd 5
+th CSL 301 Database Management Systems DC 3 0 2 4
+3
+rd 5
+th CSL421 Artificial Intelligence DC 3 0 2 4
+3
+rd 5
+th CSL302 Computer Networks DC 3 0 2 4
+3
+rd 5
+th CSP301 Tools and Practices for Data
+Science - III
+DC 0 0 4 2
+3
+rd 5
+th CSD301 Mini Project - I DE 0 0 6 3
+Subtotal 15 0 20 25
+3
+rd 6
+th CSL313 Computer Vision and Deep
+Learning
+DC 3 0 2 4
+3
+rd 6
+th CSL444 Big Data Analytics DC 3 0 2 4
+3
+rd 6
+th CSL436 Data Mining and Warehousing DC 3 0 2 4
+3
+rd 6
+th CSL314 Design Thinking DC 3 0 0 3
+3
+rd 6
+th Open Course – I OC 3 0 0 3
+3
+rd 6
+th CSD301 Mini Project - II DE 0 0 6 3
+Subtotal 15 0 12 21
+Total 46
+FINAL YEAR
+4
+th 7
+th CSD 401 Project DE 0 0 16 8
+4
+th 7
+th Elective – I DE 3 0 0 3
+4
+th 7
+th Elective –II DE 3 0 0/2 3/4
+4
+th 7
+th Elective – III DE 3 0 0/2 3/4
+4
+th 7
+th MooC Course / Open Course –
+II
+OC 3 0 0 3
+Subtotal 12 0 18 21-23
+OR
+4
+th 7
+th CSD 402 Internship DE 0 0 16 8
+Subtotal 0 0 16 8
+Total 21-23/8
+4
+th 8
+th CSD 402 Internship DE 0 0 16 8
+Page 3 of 3
+Subtotal 0 0 16 8
+OR
+4
+th 8
+th CSD 401/
+CSD 403
+Project / Internship - II DE 0 0 16 8
+4
+th 8
+th Elective – I DE 3 0 0 3
+4
+th 8
+th Elective – II DE 3 0 0/2 3/4
+4
+th 8
+th Elective – III DE 3 0 0/2 3/4
+4
+th 8
+th MooC Course / Open Course –
+II
+OC 3 0 0 3
+Subtotal 12 0 18 21-23
+Total 8/21-23
+Total 31-33
+GRAND TOTAL 153-155
+
+CSH:-
+Year Semester Course
+Code
+Course Name Type L T P Credits
+FIRST YEAR
+1
+ST 1
+ST MAL103 Calculus for Engineers BS 3 1 0 4
+1
+ST 1
+ST CSL106 Introduction to Gaming DC 2 0 0 2
+1
+ST 1
+ST CSL101 Computer Programming DC 3 0 2 4
+1
+ST 1
+ST BEL101 Mechanics & Graphics ES 3 0 2 4
+1
+ST 1
+ST SAP101 Health, Sports & Safety HU 0 0 2 0
+1
+ST 1
+ST HUL101 Communication Skills HU 2 0 2 3
+1
+ST 1
+ST CSL107 Introduction to HCI DC 2 0 0 2
+Subtotal 15 1 8 19
+1
+ST 2
+nd MAL104 Matrices, Transform Techniques,
+and Differential Equations
+BS 3 1 0 4
+1
+ST 2
+nd ASL103 Applied Physics for Gaming BS 3 0 0 3
+1
+ST 2
+nd CSL102 Data Structures DC 3 0 2 4
+1
+ST 2
+nd CSL103 Application Programming DC 3 0 2 4
+1
+ST 2
+nd CSL108 Game Development Design
+Thinking
+DC 2 0 0 2
+1
+ST 2
+nd HUL102 Environmental Studies HU 2 0 0 0
+1
+ST 2
+nd ECL103 Applied Electronics ES 3 0 2 4
+Subtotal 19 1 6 21
+Total 40
+SECOND YEAR
+2
+nd 3
+rd CSL204 Discrete Maths & Graph Theory DC 3 1 0 4
+2
+nd 3
+rd CSL211 Gamification for Learning DC 3 0 0 3
+Page 2 of 4
+2
+nd 3
+rd CSL202 Introduction to Object Oriented
+Programming
+DC 3 0 2 4
+2
+nd 3
+rd CSL212 Computer Architecture and
+Organization
+DC 3 0 0 3
+2
+nd 3
+rd
+CSL210
+Data Structures With
+Applications
+DC 2 0 2 3
+2
+nd 3
+rd CSP201 IT Workshop – I DC 0 0 4 2
+Subtotal 14 1 8 19
+2
+nd 4
+th CSL205 Design & Analysis of Algorithms DC 3 0 2 4
+2
+nd 4
+th CSL207 Operating Systems DC 3 0 2 4
+2
+nd 4
+th CSL432 Human Computer Interaction DC 3 0 0 3
+2
+nd 4
+th
+CSL213
+Software Engineering and Game
+Testing
+DC 3 0 0 3
+2
+nd 4
+th
+MAL201
+Numerical Methods and
+Probability Theory
+DC 3 1 0 4
+2
+nd 4
+th CSP202 IT Workshop – II DC 0 0 4 2
+Subtotal 15 0 8 20
+Total 39
+THIRD YEAR
+3
+rd 5
+th CSL302 Computer Networks DC 3 0 2 4
+3
+rd 5
+th CSL431 Computer Graphics DC 3 0 0 3
+3
+rd 5
+th CSL303 Theory of Computation DC 3 1 0 4
+3
+rd 5
+th CSL306 UI and UX Design DC 3 0 2 4
+3
+rd 5
+th CSL301 Database Management Systems DC 3 0 2 4
+Open Course – I OC 3 0 0 3
+Subtotal 18 1 6 22
+3
+rd 6
+th CSL307 Augmented & Virtual Reality DC 3 0 2 4
+3
+rd 6
+th CSL308 Computer Vision Techniques DC 3 0 2 4
+3
+rd 6
+th CSL309 GPU Computing DC 2 0 2 3
+3
+rd 6
+th CSL310 2D & 3D game development DC 3 0 2 4
+Page 3 of 4
+3
+rd 6
+th Open Course – II OC 3 0 0 3
+3
+rd 6
+th CSD301 Mini Project DE 0 0 6 3
+Subtotal 14 0 18 21
+Total 43
+FINAL YEAR
+4
+th 7
+th CSD 401 Project DE 0 0 16 8
+4
+th 7
+th Elective – I DE 3 0 0/2 3/4
+4
+th 7
+th Elective – II DE 3 0 0/2 3/4
+4
+th 7
+th Elective – III DE 3 0 0 3
+4
+th 7
+th Elective – IV DE 3 0 0 3
+4
+th 7
+th MooC Course / Open Course III OC 3 0 0 3
+Subtotal 15 0 16-
+20
+23-25
+OR
+4
+th 7
+th CSD 402 Internship DE 0 0 16 8
+Subtotal 0 0 16 8
+Total 23-
+25/8
+4
+th 8
+th CSD 402 Internship DE 0 0 16 8
+Subtotal 0 0 16 8
+OR
+4
+th 8
+th CSD 401/
+CSD 403
+Project / Internship – II DE 0 0 16 8
+4
+th 8
+th Elective – I DE 3 0 0/2 3/4
+4
+th 8
+th Elective – II DE 3 0 0/2 3/4
+4
+th 8
+th Elective – III DE 3 0 0 3
+4
+th 8
+th Elective – IV DE 3 0 0 3
+4
+th 8
+th MooC Course / Open Course III OC 3 0 0 3
+Subtotal 15 0 16-
+20
+23-25
+Page 4 of 4
+8/23-
+25
+Total 31-33
+GRAND TOTAL 153-
+155
+
+ECE:-
+Year Semester Course
+Code
+Course Name Type L T P Credits
+FIRST YEAR
+1 1 MAL 103 Calculus for Engineers BS 3 1 0 4
+1 1 BEL 102 Elements of Electrical
+Engineering
+BS 3 0 2 4
+1 1 BEL 101 Mechanics & Graphics BS 3 0 2 4
+1 1 CSL 101 Computer Programming DC 3 0 2 4
+1 1 ECL 101 Electronic Devices and
+Circuits
+DC 3 0 2 4
+1 1 HUL 101 Communication Skills HU 2 0 2 3
+Sub Total 17 1 10 23
+1 2 MAL 104 Matrices, Transform
+Techniques and
+Differential Equations
+BS 3 1 0 4
+1 2 ASL 101 Applied Sciences BS 3 0 2 4
+1 2 ECL 102 Digital Electronics DC 3 0 2 4
+1 2 CSL 102 Data Structures DC 3 0 2 4
+1 2 HUL 102 Environmental Studies HU 2 0 0 2
+1 2 CSL 103 Application Programming DC 3 0 2 4
+1 2 SAP 101 Health, Sports and Safety HU 0 0 2 0
+Sub Total 17 1 10 22
+Total 34 2 20 45
+SECOND YEAR
+2 3 MAL 201 Numerical Methods and
+Probability Theory
+BS 3 1 0 4
+2 3 ECL 201 Signals and Systems DC 3 0 2 4
+2 3 ECL 202 Microprocessors and
+Interfacing
+DC 3 0 2 4
+2 3 ECL 203 Analog ICs DC 3 0 2 4
+2 3 ECL 204 Network Theory DC 3 0 2 4
+2 3 CSP 201 IT Workshop- I DC 0 0 4 2
+Sub Total 15 1 12 22
+2 4 ECL 301 Digital Signal Processing DC 3 0 2 4
+2 4 ECL 302 Analog Communication DC 3 0 2 4
+2 4 ECL 304 Control Systems DC 3 0 0 3
+2 4 ECL 305 Electromagnetics DC 3 0 0 3
+2 4 ECL 306 Computer Architecture
+and Organisation
+DC 3 0 0 3
+2 4 CSP 202 IT Workshop- II DC 0 0 4 2
+Sub Total 15 0 8 19
+Total 30 1 20 41
+Year Semester Course
+Code
+Course Name Type L T P Credits
+THIRD YEAR
+3 5 ECL 303 Hardware Description
+Languages
+DC 3 0 2 4
+3 5 ECL 307 Waveguides and
+Antennas
+DC 3 0 0 3
+3 5 ECL 308 Embedded Systems DC 3 0 2 4
+3 5 ECL 320 Digital Communication DC 3 0 2 4
+3 5 Open Course - I OC 3 0 0 3
+Sub Total 15 0 6 18
+3 6 ECL 311 Wireless Communication DC 3 0 2 4
+3 6 ECL 312 CMOS Design DC 3 0 2 4
+3 6 Open Course - II OC 3 0 0 3
+3 6 Departmental Elective DE 3 0 0 3
+3 6 Departmental Elective DE 3 0 2 4
+Sub Total 15 0 6 18
+Total 30 0 12 36
+FINAL YEAR
+4
+th 7
+th Elective - III DE 3 0 0 3
+4
+th 7
+th Elective – IV DE 3 0 0 3
+4
+th 7
+th Elective - V DE 3 0 0/2 3/4
+4
+th 7
+th Elective – VI DE 3 0 0/2 3/4
+4
+th 7
+th OPEN / MOOC course OC 3 0 0 3
+4
+th 7
+th ECD 403 Project DE 0 0 16 8
+4
+th 7
+th OR
+4
+th 7
+th ECD 402 Internship DE 0 0 16 8
+Sub Total 15/0 0 16(20)/16 23(25)/8
+4
+th 8
+th ECD 402 Internship DE 0 0 16 8
+4
+th 8
+th OR
+4
+th 8
+th ECD
+403/ECD
+404
+Project/ Internship-II DE 0 0 16 8
+8
+th Elective –III DE 3 0 0 3
+4
+th 8
+th Elective – IV DE 3 0 0 3
+4
+th 8
+th Elective - V DE 3 0 0/2 3/4
+4
+th 8
+th Elective – VI DE 3 0 0/2 3/4
+4
+th 8
+th OPEN / MOOC course OC 3 0 0 3
+Sub Total 15/0 0 16(20)/16 23(25)/8
+Total 31/33
+GRAND TOTAL 153/155
+
+ECI:-
+Year Semester Course
+Code
+Course Name Type L T P Credits
+FIRST YEAR
+1 1 MAL 108 Applied Mathematics for
+Engineers
+BS 3 1 0 4
+1 1 ECL 103 Electronic Devices and
+Applications
+EC 3 0 2 4
+1 1 ECL 104 Introduction to IoT EC 3 0 2 4
+1 1 CSL 101 Computer Programming CSE 3 0 2 4
+1 1 ECL 105 Electrical Systems EC 3 0 2 4
+1 1 HUL 102 Environmental studies HU 2 0 0 2
+1 1 SAP 101 Health, sports and safety HU 0 0 2 0
+Sub Total 17 1 10 22
+1 2 ECL 106 Digital System Design
+with HDL
+EC 3 0 2 4
+1 2 CSL 102 Data Structures CSE 3 0 2 4
+1 2 ECL 107 Analog IC and Fabrication EC 3 0 2 4
+1 2 ECL 108 IoT Workshop –I EC 0 0 4 2
+1 2 MAL 201 Numerical Methods and
+Probability Theory
+BS 3 1 0 4
+1 2 ECL 109 Instrumentation
+Techniques
+EC 3 0 0 3
+1 2 HUL 101 Communication skills HU 2 0 2 3
+Sub Total 17 1 12 24
+Total 34 2 22 46
+SECOND YEAR
+2 3 ECE 205 Applied Signals and
+Systems
+DC 3 0 2 4
+2 3 CSL 202 Introduction to Object
+Oriented Programming
+CSE 3 0 2 4
+2 3 ECE 206 Sensors and Transducers DC 3 0 2 4
+2 3 ECE 207 Workshop -II EC 0 0 4 2
+2 3 CSL 217 Programming Techniques
+for IoT
+CSE 2 0 2 3
+2 3 ECE 208 Electromagnetic Field
+Theory
+DC 3 0 0 3
+Sub Total 14 0 12 20
+2 4 ECE 307 DSP and Applications EC 3 0 2 4
+2 4 ECE 308 Modelling for IoT EC 3 0 2 4
+2 4 ECE 309 Microprocessor and
+Microcontroller
+EC 3 0 2 4
+2 4 ECE 310 Communication Systems EC 3 0 2 4
+2 4 CSL 301 Database Management
+System
+CSE 3 0 2 4
+2 4 ECE 311 Workshop- III EC 0 0 4 2
+Sub Total 15 0 14 22
+Total 29 0 26 42
+Year Semester Course
+Code
+Course Name Type L T P Credits
+THIRD YEAR
+3 5 ECE 321 Communication
+Network
+EC 3 0 2 4
+3 5 ECE 322 Embedded System
+Design
+EC 3 0 2 4
+3 5 Departmental Elective DE 3 0 0 3
+3 5 Departmental Elective DE 3 0 2 4
+Departmental Elective DE 3 0 2 4
+3 5 Open Course - I OC 3 0 0 3
+Sub Total 18 0 8 22
+3 6 ECE 326 IoT Security EC 3 0 0 3
+3 6 Departmental Elective DE 3 0 2 4
+3 6 Departmental Elective DE 3 0 2 4
+3 6 Fractal Course (DE) (1.1) EC 1 0 0 1
+3 6 Fractal Course (DE) (1.2) EC 1 0 0 1
+3 6 Fractal Course (DE) (1.3) EC 1 0 0 1
+ECD 405 Minor Project EC 0 0 6 3
+OC-II OC 3 0 0 3
+Sub Total 15 0 10 20
+Total 33 0 18 42
+FINAL YEAR
+4
+th 7
+th OPEN / MOOC course OC 3 0 0 3
+4
+th 7
+th DE DE 3 0 0 3
+4
+th 7
+th DE DE 3 0 0 3
+4
+th 7
+th ECD 406 Project DC 0 0 16 8
+OR
+4
+th 7
+th ECD 407 Internship 0 0 16 8
+Sub Total
+9
+0 16 17/8
+4
+th
+8
+th ECD 407 Internship DC
+0
+0 16
+8
+OR
+4
+th
+8
+th ECD
+406/ECD
+407
+Project/ Internship
+-II DC
+0
+0 16
+8
+4
+th
+8
+th OPEN / MOOC course OC
+3
+0
+0
+3
+4
+th
+8
+th DE DE
+3
+0
+0
+3
+4
+th
+8
+th DE DE
+3
+0
+0
+3
+Sub Total
+9
+0 16 17/8
+Total 25
+GRAND TOTAL 155
